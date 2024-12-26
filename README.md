@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Vardhinisirla22
 - 👀 I’m interested in ...Books
 - 🌱 I’m currently learning ...Coding
-- 📫 How to reach me ...Linkedin @Sirlavardhini
+- 📫 How to reach me ...Linkedin @vardhinisirla22
 - 😄 Pronouns: She
+- IELTS Band score-7
 - ⚡ Fun fact: I am so witty
 
 <!---
