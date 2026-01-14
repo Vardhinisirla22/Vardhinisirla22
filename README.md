@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Vardhinisirla22
-- 👀 I’m interested in ...Books
-- 🌱 I’m currently learning ...Coding
-- 📫 How to reach me ...Linkedin @vardhinisirla22
-- 😄 Pronouns: She
-- IELTS Band score-7
-- ⚡ Fun fact: I am so witty
+👋 Hi, I’m @Vardhinisirla  
 
-<!---
-Vardhinisirla22/Vardhinisirla22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Graduate CS student building data analytics and machine learning projects  
+💻 Python | SQL | Applied ML  
+🌱 Learning cloud computing and modern development tools  
+📫 LinkedIn: https://linkedin.com/in/vardhini-sirla  
+😄 Pronouns: She/Her  
+
